@@ -1,3 +1,6 @@
+# Link to University Course Registration Solidity Smart Contracts
+https://github.com/anotherwebguy/University-Course-Registration
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
